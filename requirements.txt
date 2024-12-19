@@ -5,3 +5,8 @@ seaborn==0.12.2
 scikit-learn==1.2.2
 tensorflow==2.13.0
 jupyterlab==3.6.3
+nltk
+scikit-learn
+transformers
+datasets
+rouge-score
