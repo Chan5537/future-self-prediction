@@ -17,3 +17,44 @@ Thumbs.db
 .vscode/
 .idea/
 
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+logs/
+*.log
+
+# Data files (if using Git LFS, adjust accordingly)
+# Uncomment if you want to ignore raw and processed data
+# data/raw/
+# data/processed/
+
+# Model checkpoints
+models/
+# If you want to track models, comment out the above line
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editors and IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Other
+*.swp
+*.swo
