@@ -8,5 +8,6 @@ jupyterlab==3.6.3
 nltk
 scikit-learn
 transformers
-datasets
+sentence-transformers
 rouge-score
+tqdm
