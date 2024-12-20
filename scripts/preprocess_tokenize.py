@@ -104,8 +104,8 @@ def main():
 
     # Save the tokenized dataset to disk for future use (optional)
     # Uncomment the following lines if you wish to save the dataset
-    # tokenized_datasets.save_to_disk("../data/processed/hf_tokenized_dataset")
-    # print("Tokenized DatasetDict saved to disk.")
+    tokenized_datasets.save_to_disk("../data/processed/hf_tokenized_dataset")
+    print("Tokenized DatasetDict saved to disk.")
 
     # Inspect a tokenized example
     print("\nSample Tokenized Training Example:")
