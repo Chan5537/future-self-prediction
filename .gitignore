@@ -58,3 +58,4 @@ Thumbs.db
 # Other
 *.swp
 *.swo
+data/processed/hf_tokenized_dataset/
